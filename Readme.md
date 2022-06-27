@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LucasScellos
  - 👀 I’m interested in Machine Learning
- - 🌱 I’m currently learning Deep Learning 
  - 🌱 I’m currently learning some Deep Learning methods
  - 📫 How to reach me https://www.linkedin.com/in/lucas-scellos/
