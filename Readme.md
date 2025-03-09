@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in Data especially in AI
 - 🌱 I’m currently learning some new Neural Language Processing techniques<br>
-- 📡 I work at Thalès
+- 📡 I am a confirmed Data Scientist at Axionable 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasscellos) 
